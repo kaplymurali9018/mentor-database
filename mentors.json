@@ -1,0 +1,138 @@
+[
+  {
+    "name": "Arjun Mehta",
+    "domain": "Technology & SaaS",
+    "sub_domain": "B2B SaaS, Product Scaling",
+    "experience_years": 9,
+    "skills": [
+      "SaaS Strategy",
+      "Go-To-Market",
+      "Product Roadmapping",
+      "Fundraising"
+    ],
+    "email": "arjun.mehta@mentorshub.in",
+    "phone": "+91 98761 23456",
+    "profile_image_url": "https://example.com/images/arjun.jpg",
+    "linkedin_url": "https://linkedin.com/in/arjunmehta",
+    "bio": "Tech entrepreneur and SaaS strategist with 9 years helping early-stage founders scale B2B products and improve ARR."
+  },
+  {
+    "name": "Ritika Kapoor",
+    "domain": "E-commerce & Retail",
+    "sub_domain": "D2C Brand Building",
+    "experience_years": 7,
+    "skills": [
+      "D2C Growth",
+      "Brand Strategy",
+      "Instagram Sales",
+      "Marketplace Optimization"
+    ],
+    "email": "ritika.kapoor@mentorshub.in",
+    "phone": "+91 98112 84838",
+    "profile_image_url": "https://example.com/images/ritika.jpg",
+    "linkedin_url": "https://linkedin.com/in/ritikakapoor",
+    "bio": "D2C growth mentor with experience scaling multiple Indian retail brands on Amazon, Flipkart, and Shopify."
+  },
+  {
+    "name": "Sanjay Nair",
+    "domain": "Fintech & Finance",
+    "sub_domain": "Digital Payments, Neo Banking",
+    "experience_years": 11,
+    "skills": [
+      "Fintech Compliance",
+      "RBI Regulations",
+      "Product Strategy",
+      "UPI Integrations"
+    ],
+    "email": "sanjay.nair@mentorshub.in",
+    "phone": "+91 90045 11223",
+    "profile_image_url": "https://example.com/images/sanjay.jpg",
+    "linkedin_url": "https://linkedin.com/in/sanjaynair",
+    "bio": "Fintech product advisor with 11 years working on digital banking, UPI integrations, and RBI-compliant product design."
+  },
+  {
+    "name": "Megha Sreenivas",
+    "domain": "Healthtech & Wellness",
+    "sub_domain": "Digital Health Platforms",
+    "experience_years": 8,
+    "skills": [
+      "Healthcare Product Design",
+      "Telemedicine",
+      "Regulatory Compliance",
+      "UX for Health Apps"
+    ],
+    "email": "megha.srinivas@mentorshub.in",
+    "phone": "+91 93930 44221",
+    "profile_image_url": "https://example.com/images/megha.jpg",
+    "linkedin_url": "https://linkedin.com/in/meghasrinivas",
+    "bio": "Healthtech consultant helping founders build secure, user-friendly digital health and teleconsultation products."
+  },
+  {
+    "name": "Kunal Deshpande",
+    "domain": "Edtech & Learning",
+    "sub_domain": "Learning Platforms & Curriculum",
+    "experience_years": 6,
+    "skills": [
+      "Edtech Strategy",
+      "Curriculum Design",
+      "Gamified Learning",
+      "Teacher Enablement"
+    ],
+    "email": "kunal.deshpande@mentorshub.in",
+    "phone": "+91 88550 33992",
+    "profile_image_url": "https://example.com/images/kunal.jpg",
+    "linkedin_url": "https://linkedin.com/in/kunaldeshpande",
+    "bio": "Edtech builder focused on interactive learning, curriculum design, and scalable learning platforms."
+  },
+  {
+    "name": "Ayesha Raza",
+    "domain": "Technology & SaaS",
+    "sub_domain": "AI & Automation",
+    "experience_years": 5,
+    "skills": [
+      "AI Strategy",
+      "Automation",
+      "MVP Building",
+      "APIs & Integrations"
+    ],
+    "email": "ayesha.raza@mentorshub.in",
+    "phone": "+91 99880 11447",
+    "profile_image_url": "https://example.com/images/ayesha.jpg",
+    "linkedin_url": "https://linkedin.com/in/ayeshasraza",
+    "bio": "AI-first startup advisor helping teams integrate automation and LLM-based workflows into SaaS products."
+  },
+  {
+    "name": "Dev Patel",
+    "domain": "Fintech & Finance",
+    "sub_domain": "Wealthtech & Investment Platforms",
+    "experience_years": 10,
+    "skills": [
+      "Wealth Products",
+      "Investment APIs",
+      "NSE/BSE Compliance",
+      "Fundraising"
+    ],
+    "email": "dev.patel@mentorshub.in",
+    "phone": "+91 91233 55678",
+    "profile_image_url": "https://example.com/images/dev.jpg",
+    "linkedin_url": "https://linkedin.com/in/devpatel",
+    "bio": "Startup mentor specializing in wealth-tech and investment platforms for Indian retail investors."
+  },
+  {
+    "name": "Neha Pillai",
+    "domain": "E-commerce & Retail",
+    "sub_domain": "Logistics & Operations",
+    "experience_years": 7,
+    "skills": [
+      "Supply Chain",
+      "Warehouse Setup",
+      "Delivery Optimization",
+      "Shopify Automation"
+    ],
+    "email": "neha.pillai@mentorshub.in",
+    "phone": "+91 99871 66220",
+    "profile_image_url": "https://example.com/images/neha.jpg",
+    "linkedin_url": "https://linkedin.com/in/nehapillai",
+    "bio": "Operations and logistics specialist helping retail startups optimize delivery speed and reduce costs."
+  }
+]
